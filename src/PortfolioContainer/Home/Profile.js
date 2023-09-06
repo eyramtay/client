@@ -61,6 +61,15 @@ function Profile() {
               </span>
             </span>
           </div>
+          <div className="profile-options">
+            <button className="btn primary-btn">
+              {""}
+              Hire Me{" "}
+            </button>
+            <a href="eyram_tay_resume.pdf" target="_blank">
+              <button className="btn highlighted-btn">Resume</button>
+            </a>
+          </div>
         </div>
       </div>
     </div>
