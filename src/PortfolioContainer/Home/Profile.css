@@ -64,3 +64,13 @@
   width: 380px;
   margin: 0 0px 0 100px;
 }
+
+.profile-picture-background {
+  height: 99%;
+  width: 95%;
+  background-image: url("../../assets/Home/profilephoto.JPG");
+  background-size: cover;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
